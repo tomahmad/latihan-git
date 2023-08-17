@@ -10,3 +10,4 @@ Repository untuk latihan git
 
 
 **Menambah branch feature2**
+- Perubahan pertama feature2

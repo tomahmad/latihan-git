@@ -8,4 +8,5 @@ Repository untuk latihan git
 
 
 **Menambah branch feature1**
--Perubahan pertama feature1
+- Perubahan pertama feature1
+- perubahan kedua feature1
